@@ -25,4 +25,10 @@ To run the automated tests locally or on your Jenkins server, follow these steps
 
 
 
+PFB THE RESULTS:
+
+![Project Image](https://github.com/palakdua-16/JENKINSRUN/raw/main/image.png)
+
+
+
 
